@@ -1,0 +1,600 @@
+[DEBUG][2016-08-10 23:37:27,621][Log4j2Demo.java:17] - test57460
+[DEBUG][2016-08-10 23:37:27,624][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,624][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,624][Log4j2Demo.java:17] - test105900
+[DEBUG][2016-08-10 23:37:27,624][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,624][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,624][Log4j2Demo.java:17] - test19168
+[DEBUG][2016-08-10 23:37:27,624][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,625][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,625][Log4j2Demo.java:17] - test93050
+[DEBUG][2016-08-10 23:37:27,625][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,625][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,625][Log4j2Demo.java:17] - test44452
+[DEBUG][2016-08-10 23:37:27,625][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,625][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,625][Log4j2Demo.java:17] - test163388
+[DEBUG][2016-08-10 23:37:27,625][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,626][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:17] - test33592
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,626][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:17] - test127838
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,626][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:17] - test41239
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,626][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,626][Log4j2Demo.java:17] - test108069
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,627][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:17] - test148575
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,627][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:17] - test65511
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,627][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:17] - test158858
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,627][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,627][Log4j2Demo.java:17] - test126173
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,628][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:17] - test156947
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,628][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:17] - test183339
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,628][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:17] - test53978
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,628][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,628][Log4j2Demo.java:17] - test102796
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,629][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:17] - test192634
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,629][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:17] - test144131
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,629][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:17] - test148561
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,629][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,629][Log4j2Demo.java:17] - test164184
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,630][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:17] - test183741
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,630][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:17] - test64192
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,630][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:17] - test171469
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,630][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,630][Log4j2Demo.java:17] - test192341
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,631][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:17] - test87326
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,631][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:17] - test175720
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,631][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:17] - test33509
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,631][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,631][Log4j2Demo.java:17] - test179031
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,632][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:17] - test157306
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,632][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:17] - test38196
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,632][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:17] - test109930
+[DEBUG][2016-08-10 23:37:27,632][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,632][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,633][Log4j2Demo.java:17] - test96898
+[DEBUG][2016-08-10 23:37:27,633][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,633][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,633][Log4j2Demo.java:17] - test144823
+[DEBUG][2016-08-10 23:37:27,634][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,634][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,634][Log4j2Demo.java:17] - test66868
+[DEBUG][2016-08-10 23:37:27,634][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,634][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,635][Log4j2Demo.java:17] - test184527
+[DEBUG][2016-08-10 23:37:27,635][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,635][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:17] - test132501
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,636][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:17] - test33521
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,636][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:17] - test94441
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,636][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:17] - test43139
+[DEBUG][2016-08-10 23:37:27,636][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,636][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:17] - test09651
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,637][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:17] - test14997
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,637][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:17] - test31570
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,637][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:17] - test18998
+[DEBUG][2016-08-10 23:37:27,637][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,638][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,638][Log4j2Demo.java:17] - test95790
+[DEBUG][2016-08-10 23:37:27,638][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,638][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,638][Log4j2Demo.java:17] - test156084
+[DEBUG][2016-08-10 23:37:27,638][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,638][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:17] - test95787
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,639][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:17] - test1838
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,639][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:17] - test64213
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,639][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:17] - test77191
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,639][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:17] - test134818
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,639][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:17] - test25868
+[DEBUG][2016-08-10 23:37:27,639][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,639][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:17] - test114352
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,640][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:17] - test144717
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,640][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:17] - test44888
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,640][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:17] - test108564
+[DEBUG][2016-08-10 23:37:27,640][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,640][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:17] - test171711
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,641][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:17] - test99056
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,641][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:17] - test26732
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,641][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:17] - test103653
+[DEBUG][2016-08-10 23:37:27,641][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,641][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:17] - test04451
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,642][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:17] - test01738
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,642][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:17] - test168797
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,642][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:17] - test57716
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,642][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,642][Log4j2Demo.java:17] - test29190
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,643][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:17] - test122964
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,643][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:17] - test49505
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,643][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:17] - test31219
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,643][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,643][Log4j2Demo.java:17] - test142909
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,644][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:17] - test102130
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,644][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:17] - test194270
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,644][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:17] - test145750
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,644][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,644][Log4j2Demo.java:17] - test55692
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,645][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:17] - test178774
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,645][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:17] - test07265
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,645][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:17] - test03331
+[DEBUG][2016-08-10 23:37:27,645][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,645][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:17] - test91597
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,646][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:17] - test05127
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,646][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:17] - test87208
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,646][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:17] - test106422
+[DEBUG][2016-08-10 23:37:27,646][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,646][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:17] - test57356
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,647][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:17] - test7725
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,647][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:17] - test195133
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,647][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,647][Log4j2Demo.java:17] - test43025
+[DEBUG][2016-08-10 23:37:27,648][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,648][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,648][Log4j2Demo.java:17] - test143575
+[DEBUG][2016-08-10 23:37:27,648][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,648][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,648][Log4j2Demo.java:17] - test82375
+[DEBUG][2016-08-10 23:37:27,648][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,648][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,648][Log4j2Demo.java:17] - test72853
+[DEBUG][2016-08-10 23:37:27,650][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,650][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,650][Log4j2Demo.java:17] - test94450
+[DEBUG][2016-08-10 23:37:27,650][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,650][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,650][Log4j2Demo.java:17] - test05670
+[DEBUG][2016-08-10 23:37:27,650][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,651][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:17] - test37808
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,651][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:17] - test41217
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,651][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:17] - test12112
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,651][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:17] - test76517
+[DEBUG][2016-08-10 23:37:27,651][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,651][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:17] - test144491
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,652][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:17] - test54900
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,652][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:17] - test184213
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,652][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:17] - test108190
+[DEBUG][2016-08-10 23:37:27,652][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,652][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:17] - test137070
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,653][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:17] - test03926
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,653][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:17] - test192944
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,653][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:17] - test27858
+[DEBUG][2016-08-10 23:37:27,653][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,653][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:17] - test32891
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,654][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:17] - test111686
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,654][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:17] - test17556
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,654][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:17] - test166319
+[DEBUG][2016-08-10 23:37:27,654][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,654][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:17] - test178894
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,655][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:17] - test52818
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,655][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:17] - test02038
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,655][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:17] - test10913
+[DEBUG][2016-08-10 23:37:27,655][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,655][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:17] - test41478
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,656][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:17] - test77229
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,656][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:17] - test22408
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,656][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:17] - test03156
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,656][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,656][Log4j2Demo.java:17] - test198522
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,657][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:17] - test112659
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,657][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:17] - test53545
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,657][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:17] - test4427
+[DEBUG][2016-08-10 23:37:27,657][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,657][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:17] - test59453
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,658][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:17] - test126048
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,658][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:17] - test11832
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,658][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:17] - test5931
+[DEBUG][2016-08-10 23:37:27,658][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,658][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:17] - test179677
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,659][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:17] - test44421
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,659][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:17] - test102893
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,659][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:17] - test102758
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,659][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,659][Log4j2Demo.java:17] - test97391
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,660][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:17] - test33266
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,660][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:17] - test119585
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,660][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:17] - test113175
+[DEBUG][2016-08-10 23:37:27,660][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,660][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:17] - test78887
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,661][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:17] - test22412
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,661][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:17] - test26206
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,661][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:17] - test13674
+[DEBUG][2016-08-10 23:37:27,661][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,661][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:17] - test65676
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,662][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:17] - test156482
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,662][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:17] - test06836
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,662][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,662][Log4j2Demo.java:17] - test0804
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,663][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:17] - test81808
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,663][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:17] - test113709
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,663][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:17] - test91583
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,663][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,663][Log4j2Demo.java:17] - test06830
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,664][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:17] - test16183
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,664][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:17] - test06275
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,664][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:17] - test172170
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,664][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:17] - test36387
+[DEBUG][2016-08-10 23:37:27,664][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,665][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,665][Log4j2Demo.java:17] - test135850
+[DEBUG][2016-08-10 23:37:27,665][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,665][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,665][Log4j2Demo.java:17] - test6808
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,666][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:17] - test133884
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,666][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:17] - test07921
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,666][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:17] - test131722
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,666][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,666][Log4j2Demo.java:17] - test117064
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,667][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:17] - test137995
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,667][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:17] - test62586
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,667][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:17] - test145471
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,667][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,667][Log4j2Demo.java:17] - test32569
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,668][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:17] - test99251
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,668][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:17] - test32539
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,668][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:17] - test69115
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,668][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,668][Log4j2Demo.java:17] - test96872
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,669][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:17] - test196519
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,669][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:17] - test12565
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,669][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:17] - test187816
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,669][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,669][Log4j2Demo.java:17] - test43051
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,670][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:17] - test142594
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,670][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:17] - test47659
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,670][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:17] - test96214
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,670][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:17] - test101373
+[DEBUG][2016-08-10 23:37:27,670][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,671][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:17] - test196917
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,671][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:17] - test136857
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,671][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:17] - test62546
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,671][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:17] - test118113
+[DEBUG][2016-08-10 23:37:27,671][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,672][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:17] - test749
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,672][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:17] - test24268
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,672][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:17] - test156799
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,672][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,672][Log4j2Demo.java:17] - test8382
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,673][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:17] - test75692
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,673][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:17] - test141759
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,673][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:17] - test10277
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,673][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,673][Log4j2Demo.java:17] - test57702
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,674][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:17] - test162073
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,674][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:17] - test65260
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,674][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:17] - test156934
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,674][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:17] - test24890
+[DEBUG][2016-08-10 23:37:27,674][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,675][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:17] - test13417
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,675][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:17] - test102368
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,675][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:17] - test156506
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,675][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:17] - test78972
+[DEBUG][2016-08-10 23:37:27,675][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,676][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:17] - test83479
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,676][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:17] - test197523
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,676][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:17] - test04253
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,676][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:17] - test159374
+[DEBUG][2016-08-10 23:37:27,676][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,677][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:17] - test24080
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,677][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:17] - test25577
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,677][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:17] - test132483
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,677][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:17] - test11388
+[DEBUG][2016-08-10 23:37:27,677][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,678][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:17] - test195431
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,678][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:17] - test05821
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,678][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:17] - test195624
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,678][Log4j2Demo.java:19] - === info
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:17] - test76545
+[DEBUG][2016-08-10 23:37:27,678][Log4j2Demo.java:18] - === debug
+[INFO ][2016-08-10 23:37:27,678][Log4j2Demo.java:19] - === info
